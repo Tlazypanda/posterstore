@@ -1,3 +1,9 @@
+# `Posterstore`
+This is a basic posterstore website made with angularjs,angularseed,bootstrap,bower.You can select a poster and buy it with paypal integration.Kindly install node,bower and add the bootstrap css,js files in the bower-components of folder app.
+
+
+
+
 # `angular-seed` — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS][angularjs] web app. You can use it
